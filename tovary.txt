@@ -1,0 +1,6 @@
+1;bread;3,5;eat every day;product
+2;kolbasa;23;eat not every day;product
+3;milo;13,5;miti ruki;himia
+4;gvozdi;5;stroy materiali dlia krishi;stroyka
+5;molotok;350;zabivat gvozdi;stroyka
+6;shampun;15;mit golovu;himia

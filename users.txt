@@ -1,0 +1,3 @@
+1;vasiliy;wer12;5,4,3
+2;nikolia;qwerty;1,2
+3;grisha;123456;7,6
